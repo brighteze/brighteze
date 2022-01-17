@@ -1,4 +1,5 @@
 Hi there, I'm Bright. 👋
+Welcome to my Page.
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=brighteze&show_icons=true&theme=radical" />
 
