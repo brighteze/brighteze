@@ -1,4 +1,7 @@
-Hi there, I'm Bright, and I am a data analyst. You'll find some good stuff in my repo consisting of exploratory data analysis, SQL projects, data visualization projects in MS Excel, Tableau and Power BI, and some Machine Learning stuff. Welcome to my page and hope you have a good time exploring. 👋
+Hi there, my name is Bright, and I am a data analyst. I have a few projects I want you to see. It covers areas like exploratory data analysis, SQL, data visualization (MS Excel, Tableau and Power BI), and some Machine Learning. Welcome to my page, I hope you have a good time exploring and I'll be waiting to talk to you. 👋
+
+
+
 
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=brighteze&show_icons=true&theme=radical" />
