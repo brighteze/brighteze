@@ -1,5 +1,5 @@
-Hi there, I'm Bright. 👋
-Welcome to my Page.
+Hi there, I'm Bright, and I am a data analyst. You'll find some good stuff in my repo consisting of exploratory data analysis, SQL projects, data visualization projects in MS Excel, Tableau and Power BI, and some Machine Learning stuff. Welcome to my page and hope you have a good time exploring. 👋
+
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=brighteze&show_icons=true&theme=radical" />
 
