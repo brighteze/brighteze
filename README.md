@@ -1,10 +1,7 @@
-Hi there, my name is Bright, and I am a data analyst. I have a few projects I want you to see. It covers areas like exploratory data analysis, SQL, data visualization (MS Excel, Tableau and Power BI), and some Machine Learning. Welcome to my page, I hope you have a good time exploring and I'll be waiting to talk to you. 👋
+Hi there, my name is Bright, and I am a data analyst. I have a few projects I want you to see. It covers areas like exploratory data analysis, data visualization (MS Excel, Tableau and Power BI), and some Machine Learning. Welcome to my page, I hope you have a good time exploring and I'll be waiting to talk to you. 👋
 
-   
-   
-    
-     
-     
+
+
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=brighteze&show_icons=true&theme=radical" />
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brighteze&layout=compact" />
