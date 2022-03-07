@@ -5,7 +5,29 @@ Welcome to my page. My name is Bright, and I am a data analyst. I have a few pro
 - Data visualization (MS Excel, Tableau and Power BI), and  
 - Machine Learning. 
  
-I hope you have a good time exploring and I'll be waiting to talk to you. 👋
+I hope you have a good time exploring and I'll be waiting to talk to you.
+
+
+### Connect with me:
+
+
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
+
+<br />
+<br />
+
+
+
+
+<ing align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdeliver.net/npm simple-icons@av3/icons/Linkedin.svg" />
 
 
 
