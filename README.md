@@ -1,4 +1,11 @@
-Hi there, my name is Bright, and I am a data analyst. I have a few projects I want you to see. It covers areas like exploratory data analysis, data visualization (MS Excel, Tableau and Power BI), and some Machine Learning. Welcome to my page, I hope you have a good time exploring and I'll be waiting to talk to you. 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Welcome to my page. My name is Bright, and I am a data analyst. I have a few projects I want you to see. It covers areas like;
+- Exploratory data analysis, 
+- Data visualization (MS Excel, Tableau and Power BI), and  
+- Machine Learning. 
+ 
+I hope you have a good time exploring and I'll be waiting to talk to you. 👋
 
 
 
