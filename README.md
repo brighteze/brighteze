@@ -33,3 +33,33 @@ I hope you have a good time exploring and I'll be waiting to talk to you.
 
 
 
+<details><summary>Resume</summary><br/>
+
+ ### Education :books:
+- BA (Hons) Business Management, 2012-2015.
+- :round_pushpin: Anglia Ruskin University, United Kingdom.
+ 
+
+ ### Professional Experience :office:
+ 
+- Junior Consultant (National Service), Dec 2020 - Oct, 2021
+- :round_pushpin: African Initiative For Sustainable & Positive Development, Abuja, Nigeria.
+ 
+ - Managing Partner, Oct 2018 - Oct, 2020
+- :round_pushpin: Grandma Secrets Ltd, Abuja, Nigeria.
+ 
+- Data Analytics Internship (Virtual), Sep 2019 - Sep, 2019
+- :round_pushpin: Grandma Secrets Ltd, Abuja, Nigeria.
+ 
+### Certifications :bookmark_tabs:	
+- Google Data Anlytics Professional Certificate
+- Google Analytics Individual Qualification
+ 
+### Professional Affiliations  :card_index:	
+- Member, Institute For Operations Research and Management Sciences
+- Member, Digital Marketing Institute
+
+ 
+### Volunteer Experience
+
+</details>
