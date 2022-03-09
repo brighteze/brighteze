@@ -1,11 +1,17 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Welcome to my page. My name is Bright, and I am a data analyst :bar_chart:. I have a few projects I want you to see. It covers areas like;
+Welcome to my page. <br /> <br />
+My name is Bright & I am a data analyst :bar_chart:, but that's just a title. In reality, I transform data into useful, actionable insights. <br />
+But why is that necessary? Well, the credibility and success of your business depends on the decisions you make daily. <br />
+Hence, ensuring those decisions are realistic and data-driven will position you to be successful. And my job is to do this for you.
+
+I have done some projects that I believe will interest you, they cover 3 areas I am particularly passionate about.
+
 - Exploratory data analysis, 
-- Data visualization (MS Excel, Tableau and Power BI), and  
-- Machine Learning. 
+- Data visualization as Dashboards (MS Excel, Tableau and Power BI), and  
+- Basic Machine Learning.
  
-I hope you have a good time exploring and I'll be waiting to talk to you.
+I hope you have a good time exploring and I'll be waiting to talk to you. Cheers!
 
 
 ## Languages and Tools
@@ -53,7 +59,7 @@ I hope you have a good time exploring and I'll be waiting to talk to you.
  
 ### Volunteer Experience :gem:	
 - Member, NYSC Community Development Service (Environmental Protective Service). Jan, 2021 - Oct, 2021.
-- Volunteer Administrative Assistant, Research - AISCITE Institue, North Carolina, USA. Dec, 2021 - Present.
+- Volunteer Administrative Assistant, Research (Remote) - AISCITE Institue, North Carolina, USA. Dec, 2021 - Present.
 
 </details>
 
