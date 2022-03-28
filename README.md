@@ -39,7 +39,11 @@ I hope you have a good time exploring and I'll be waiting to talk to you. Cheers
  
 
  ### Professional Experience :office:
-- Junior Consultant (National Service), Dec 2020 - Oct, 2021. :round_pushpin:
+
+- Research Intern (Remote), Dec 2021 - Feb, 2022. :round_pushpin:
+  - AISCITE Institute, North Carolina, USA.
+
+- Junior Consultant, Dec 2020 - Oct, 2021. :round_pushpin:
   - African Initiative For Sustainable & Positive Development, Abuja, Nigeria.
  
  - Managing Partner, Oct 2018 - Oct, 2020. :round_pushpin: 
@@ -58,8 +62,8 @@ I hope you have a good time exploring and I'll be waiting to talk to you. Cheers
 
  
 ### Volunteer Experience :gem:	
-- Member, NYSC Community Development Service (Environmental Protective Service). Jan, 2021 - Oct, 2021.
-- Volunteer Administrative Assistant, Research (Remote) - AISCITE Institue, North Carolina, USA. Dec, 2021 - Present.
+- Member, National Service Community Development (Environmental Protective Service). Jan, 2021 - Oct, 2021.
+
 
 </details>
 
