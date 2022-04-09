@@ -1,17 +1,19 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Welcome to my page. <br /> <br />
-My name is Bright & I am a data analyst :bar_chart:, but that's just a title. In reality, I transform data into useful, actionable insights. <br />
-But why is that necessary? Well, the credibility and success of your business depends on the decisions you make daily. <br />
-Hence, ensuring those decisions are realistic and data-driven will position you to be successful. And my job is to do this for you.
+My name is Bright. I speak data and my goal is to solve business problems, by digging deep into data & extracting actional insights. <br />
+To be able do that, I have had to develop competencies in a range of tech stacks such as Python, Tableau, Power BI & Data Studio. <br />
+Ultimately, the goal of every business is to create value, and what better way to do that than to rely on data, I would say there's no better way. <br />
+I believe businesses in this day and age should be data driven, hence, you need people like myself to help you make that happen. <br />
 
-I have done some projects that I believe will interest you, they cover 3 areas I am particularly passionate about.
+I have a few projects on here, these projects touch on various areas such as;
 
+- Data modeliing and transformation,
 - Exploratory data analysis, 
-- Data visualization as Dashboards (MS Excel, Tableau and Power BI), and  
+- Data visualization, dashboards and reports (Tableau, Power BI and Data Studio), and  
 - Basic Machine Learning.
  
-I hope you have a good time exploring and I'll be waiting to talk to you. Cheers!
+I would be more than happy to have a chat with you and get some feedback, I'll be waiting for that call.
 
 
 ## Languages and Tools
@@ -26,7 +28,6 @@ I hope you have a good time exploring and I'll be waiting to talk to you. Cheers
 <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 <img align="left" alt="google_analytics" width="70" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_analytics.png" />
-<img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
 
 <br />
