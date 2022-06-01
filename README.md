@@ -1,4 +1,4 @@
-## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+## Hello there! 
 
 Welcome to my page. <br /> <br />
 My name is Bright. I speak data and my goal is to solve business problems, by digging deep into data & extracting actional insights. <br />
